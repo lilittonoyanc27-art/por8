@@ -5,7 +5,7 @@
 
 import React, { useState } from 'react';
 import { GAMES } from './data';
-import { GameId } from '../types';
+import { GameId } from './types';
 import { 
   Flashcards, 
   SentenceMatcher, 
