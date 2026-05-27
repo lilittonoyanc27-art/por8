@@ -1,0 +1,6 @@
+{
+  "name": "Իսպաներեն-Հայերեն Ուսուցում",
+  "description": "Ինտերակտիվ հավելված իսպաներեն սովորելու համար՝ տեքստերի ընթերցմամբ, առանձին նախադասությունների թարգմանությամբ և 6 հետաքրքիր խաղերով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
