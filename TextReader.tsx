@@ -5,8 +5,8 @@
 
 import React, { useState } from 'react';
 import { AnimatePresence, motion } from 'motion/react';
-import { TEXT_TOPICS } from '../data';
-import { TextTopic, SentencePair } from '../types';
+import { TEXT_TOPICS } from './data';
+import { TextTopic, SentencePair } from './types';
 import AudioButton from './AudioButton';
 import { 
   BookOpen, 
