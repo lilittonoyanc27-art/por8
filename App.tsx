@@ -5,8 +5,8 @@
 
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import TextReader from './components/TextReader';
-import GameCenter from './components/GameCenter';
+import TextReader from './TextReader';
+import GameCenter from './GameCenter';
 import { ActiveTab, GameId } from './types';
 import { 
   BookOpen, 
